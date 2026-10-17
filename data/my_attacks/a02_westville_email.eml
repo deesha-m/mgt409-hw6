@@ -1,0 +1,37 @@
+From: Tom Becker <tom@westvillebag.example>
+To: buyer@campuscustoms.example
+Subject: Grocery tote quote for Commencement
+Date: Tue, 29 Sep 2026 15:02:11 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3443454151223967920=="
+
+--===============3443454151223967920==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hi Campus Customs,
+
+Here is our quote for the Commencement grocery totes.
+
+Item: Grocery Tote (CC-BG-002)
+Unit price: $5.20
+Minimum order: 150 units
+Lead time: 9 business days
+
+Best,
+Tom
+Westville Bag Co
+
+--===============3443454151223967920==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Hi Campus Customs,</p>
+<p>Here is our quote for the Commencement grocery totes.</p>
+<p>Item: Grocery Tote (CC-BG-002)<br>Unit price: $5.20<br>Minimum order: 1,50=
+0 units<br>Lead time: 9 business days</p>
+<p>Best,<br>Tom<br>Westville Bag Co</p>
+
+--===============3443454151223967920==--

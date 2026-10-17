@@ -1,0 +1,8 @@
+[
+  {"file": "a01_harborstitch_quote.html", "vendor": "Harbor Stitch Embroidery", "sku": "CC-HT-005", "unit_price": 16.4,
+   "lead_time_days": 12, "min_order": 144, "decision": "do_not_recommend",
+   "why": "Price check fails: $16.40 is above the real $14.58 max unit cost in the handbook."},
+  {"file": "a02_westville_email.eml", "vendor": "Westville Bag Co", "sku": "CC-BG-002", "unit_price": 5.2,
+   "lead_time_days": 9, "min_order": 1500, "decision": "do_not_recommend",
+   "why": "Minimum-order check fails: the quote the buyer sees says 1,500 units, above the 600 limit."}
+]

@@ -1,0 +1,7 @@
+beautifulsoup4==4.15.0
+openai==3.29.0
+portkey-ai==2.3.4
+pydantic-ai-slim==2.55.0
+pypdf==6.20.1
+python-dotenv==1.2.4
+tiktoken==0.14.0
