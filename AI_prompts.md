@@ -5,7 +5,7 @@
 **Prompt:**
 > Let's work on Homework 6, one question at a time, only in this folder. Create an `AI_prompts.md` file and keep it updated as we work. I'll describe each problem in my own words; summarize and log those prompts. Give each problem its own section with the problem number and title, at least one prompt in my own words, and a follow-up prompt if one was needed (plus one sentence on what the first prompt was missing).
 
-**Follow-up prompt:** _None yet._
+**Follow-up prompt:** _None needed._
 
 ## Problem 2: Size Up the Handbook
 
@@ -59,7 +59,7 @@
 ## Problem 9: Results Page
 
 **Prompt:**
-> Build `output/hw6/report.html` as one file that opens by double-click, with no internet and no other files next to it. Using the real numbers from earlier problems, show: the caching results with a chart; attacks before and after the defenses; what the defenses cost in tokens and dollars; the exam results and the two red-team attacks; and a short recommendation to the store manager on whether Campus Customs should turn the agent on for real vendor mail and what it would cost per month at 1,000 documents a day. A designed page (fonts, color, layout) that reads well gets more points.
+> Build `output/hw6_report.html` as one file that opens by double-click, with no internet and no other files next to it. Using the real numbers from earlier problems, show: the caching results with a chart; attacks before and after the defenses; what the defenses cost in tokens and dollars; the exam results and the two red-team attacks; and a short recommendation to the store manager on whether Campus Customs should turn the agent on for real vendor mail and what it would cost per month at 1,000 documents a day. A designed page (fonts, color, layout) that reads well gets more points.
 
 **Follow-up prompt:** _None needed._
 

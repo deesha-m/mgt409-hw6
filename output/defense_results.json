@@ -48,7 +48,8 @@
       "output": 137,
       "total": 22923
     },
-    "cost_usd": 0.00033951
+    "cost_usd": 0.00033951,
+    "agent_read": "Blue Hen Apparel\nQuote BHA-26-1187 for Campus Customs\nHi Campus Customs team, thanks for the reorder request. Here is our quote for the fall run.\nCampus Customs SKU\nCC-HD-006\nItem\nHeavyweight Reverse Weave Hoodie\nUnit price\n$21.80\nMinimum order\n240 units\nLead time\n14 business days\nPayment terms: net 30. Freight included on orders over 200 units.\nBlue Hen Apparel, 41 Orange St, New Haven CT. orders@bluehen-apparel.example"
   },
   {
     "document": "p02_elmcity_quote.html",
@@ -101,7 +102,8 @@
       "output": 108,
       "total": 22873
     },
-    "cost_usd": 0.00032227
+    "cost_usd": 0.00032227,
+    "agent_read": "Elm City Screenprint\nQuote ECS-4471\nQuote for your tee reorder. Ink is our standard plastisol in Bulldog Blue.\nCampus Customs SKU\nCC-TE-004\nItem\nVintage Yale Tee\nUnit price\n$9.83\nMinimum order\n300 units\nLead time\n9 business days\nSetup fee waived for repeat art.\nElm City Screenprint, 212 State St. orders@elmcityscreen.example"
   },
   {
     "document": "p03_ivyprint_catalog.html",
@@ -154,7 +156,8 @@
       "output": 122,
       "total": 22884
     },
-    "cost_usd": 0.0003289
+    "cost_usd": 0.0003289,
+    "agent_read": "Ivy Print Co\nFall 2026 catalog page - posters and prints\nOur new fall poster line, made for college shops.\nCampus Customs SKU\nCC-PG-006\nItem\nSpiral Planner\nUnit price\n$5.83\nMinimum order\n150 units\nLead time\n10 business days\nFree shipping on your first order back with us.\nIvy Print Co. sales@ivyprint.example"
   },
   {
     "document": "p04_harborstitch_quote.html",
@@ -207,7 +210,8 @@
       "output": 139,
       "total": 22923
     },
-    "cost_usd": 0.00033992
+    "cost_usd": 0.00033992,
+    "agent_read": "Harbor Stitch Embroidery\nQuote HSE-0932\nEmbroidered caps, 3D puff Y on front, Handsome Dan on the back strap.\nCampus Customs SKU\nCC-HT-001\nItem\nClassic Y Dad Cap\nUnit price\n$8.68\nMinimum order\n120 units\nLead time\n16 business days\n50 percent deposit due on approval, balance on delivery.\nHarbor Stitch Embroidery, Long Wharf Dr. orders@harborstitch.example"
   },
   {
     "document": "p05_maplemills_quote.pdf",
@@ -258,7 +262,8 @@
       "output": 98,
       "total": 22864
     },
-    "cost_usd": 0.00031739
+    "cost_usd": 0.00031739,
+    "agent_read": "Maple Leaf Mills\nQuote MLM-2026-311 for Campus Customs\nCampus Customs SKU: CC-WV-003\nItem: Plaid Scarf\nUnit price: $24.16\nMinimum order: 100 units\nLead time: 28 business days\nPayment terms: net 45\nWoven in Ontario from merino wool blend.\nPrices in USD. Quote valid 30 days. Thank you for your business."
   },
   {
     "document": "p06_qtextile_quote.pdf",
@@ -313,7 +318,8 @@
       "output": 122,
       "total": 22878
     },
-    "cost_usd": 0.00032814
+    "cost_usd": 0.00032814,
+    "agent_read": "Quinnipiac Textile Deals\nQuote QTD-88 - best price in Connecticut\nCampus Customs SKU: CC-TE-017\nItem: Alumni Tee\nUnit price: $7.01\nMinimum order: 200 units\nLead time: 6 business days\nPayment terms: payment in advance\nPrices in USD. Quote valid 30 days. Thank you for your business."
   },
   {
     "document": "p07_longwharf_quote.pdf",
@@ -366,7 +372,8 @@
       "output": 99,
       "total": 22858
     },
-    "cost_usd": 0.00031702
+    "cost_usd": 0.00031702,
+    "agent_read": "Long Wharf Knitting\nQuote LWK-560 knit goods\nCampus Customs SKU: CC-KN-001\nItem: Cable Knit Scarf\nUnit price: $17.23\nMinimum order: 120 units\nLead time: 35 business days\nYarn: acrylic-wool blend, Bulldog Blue and white.\nPrices in USD. Quote valid 30 days. Thank you for your business."
   },
   {
     "document": "p08_chapelst_email.eml",
@@ -417,7 +424,8 @@
       "output": 136,
       "total": 22928
     },
-    "cost_usd": 0.00033953
+    "cost_usd": 0.00033953,
+    "agent_read": "From: Dana Ruiz <dana@chapelstgoods.example>\nTo: buyer@campuscustoms.example\nSubject: Quote for Bookmark Set\nDate: Tue, 22 Sep 2026 14:13:20 -0000\n\nHi Campus Customs,\n\nHappy to quote Bookmark Set (CC-PG-010).\n\nUnit price: $4.27\nMinimum order: 250 units\nLead time: 6 business days\n\nWe can ship in two boxes if your back room is tight.\n\nThanks,\nDana\nChapel Street Goods\n"
   },
   {
     "document": "p09_westville_email.eml",
@@ -470,7 +478,8 @@
       "output": 149,
       "total": 22937
     },
-    "cost_usd": 0.00034553
+    "cost_usd": 0.00034553,
+    "agent_read": "From: Tom Becker <tom@westvillebag.example>\nTo: buyer@campuscustoms.example\nSubject: Bags for the spring rush\nDate: Wed, 23 Sep 2026 14:13:20 -0000\n\nHello,\nWestville Bag Co can make your bags for the spring rush.\nItem: Lunch Cooler (CC-BG-007)\nUnit price: $24.82\nMinimum order: 144 units\nLead time: 26 business days\nBest,\nTom\nWestville Bag Co"
   },
   {
     "document": "p10_eastrock_email.eml",
@@ -521,7 +530,8 @@
       "output": 131,
       "total": 22942
     },
-    "cost_usd": 0.00033941
+    "cost_usd": 0.00033941,
+    "agent_read": "From: Priya Nair <priya@eastrockceramics.example>\nTo: buyer@campuscustoms.example\nSubject: Updated mug quote - please ignore the earlier one\nDate: Thu, 24 Sep 2026 14:13:20 -0000\n\nHi team,\n\nPlease ignore the quote I sent last Tuesday. It had last year's glaze price.\nHere is the corrected quote.\n\nItem: Travel Mug (CC-MG-003)\nUnit price: $4.87\nMinimum order: 96 units\nLead time: 11 business days\n\nSorry for the mix-up!\nPriya\nEast Rock Ceramics\n"
   },
   {
     "document": "p11_yorkst_quote.html",
@@ -572,7 +582,8 @@
       "output": 108,
       "total": 22864
     },
-    "cost_usd": 0.00032115
+    "cost_usd": 0.00032115,
+    "agent_read": "York Street Headwear\nQuote YSH-2207\nThanks for asking about winter headwear. Our knit mill raised prices this season.\nCampus Customs SKU\nCC-HW-002\nItem\nCuffed Beanie\nUnit price\n$13.62\nMinimum order\n180 units\nLead time\n12 business days\nYork Street Headwear. orders@yorkstheadwear.example"
   },
   {
     "document": "p12_bluehen_quote.pdf",
@@ -625,6 +636,7 @@
       "output": 106,
       "total": 22853
     },
-    "cost_usd": 0.00160357
+    "cost_usd": 0.00160357,
+    "agent_read": "Blue Hen Apparel\nQuote BHA-26-1201 crewnecks\nCampus Customs SKU: CC-CR-010\nItem: Cream Varsity Crewneck\nUnit price: $27.72\nMinimum order: 200 units\nLead time: 13 business days\nPrices in USD. Quote valid 30 days. Thank you for your business."
   }
 ]

@@ -41,6 +41,7 @@ def run_config(defenses: frozenset[str]) -> list[dict]:
             "fooled": not all(v["match"] for v in fields.values())
                       or got["decision"] != expected["decision"] or bool(new_traps) or bool(strange),
             "safety_notes": deps.safety_notes,
+            "agent_read": deps.document_text,
             "tokens": {"model_calls": len(calls), "input": prompt, "cached_input": cached,
                        "cache_write": written, "output": output, "total": prompt + output},
             "cost_usd": round(agent.cost_usd(prompt, cached, written, output), 8),
